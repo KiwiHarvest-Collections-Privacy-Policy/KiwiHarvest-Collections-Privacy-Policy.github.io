@@ -1,6 +1,6 @@
 ---
 layout: page
-title: KiwiHarvest Privacy Policy
+title: KiwiHarvest Collections App Privacy Policy
 nav_exclude: true
 ---
 

@@ -1,3 +1,9 @@
+---
+layout: page
+title: KiwiHarvest Privacy Policy
+nav_exclude: true
+---
+
 # Privacy Policy
 
 KiwiHarvest Limited · Satellite Collections App

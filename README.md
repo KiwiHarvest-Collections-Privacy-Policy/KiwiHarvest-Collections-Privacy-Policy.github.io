@@ -118,7 +118,7 @@ We may update this Privacy Policy from time to time. The “Last updated” date
 For privacy questions, access or correction requests, or concerns about this policy:
 
 - KiwiHarvest Limited
-- Email: [support@kh.org.nz](mailto:support@kh.org.nz)
+- Email: [hello@kiwiharvest.org.nz](mailto:hello@kiwiharvest.org.nz)
 - Ask your Satellite Partner coordinator to escalate to KiwiHarvest if needed
 
 If you are not satisfied with our response, you may contact the Office of the Privacy Commissioner ([privacy.org.nz](https://www.privacy.org.nz)).
